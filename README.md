@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-1. [Decscription](#description)
+1. [Description](#description)
 2. [Resources](#resources)
 3. [Recording](#recording)
 4. [Installations](#installations)
