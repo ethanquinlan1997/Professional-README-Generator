@@ -117,30 +117,30 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
 
-## Description(#table-of-contents) 
+## Description 
 ${data.description}
 
 ## Table-of-Contents :
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Test](#tests)
-4. [Contributions](#contributions)
-5. [Github](#github)
-6. [Email](#email)
-7. [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Test](#tests)
+- [Contributions](#contributions)
+- [Github](#github)
+- [Email](#email)
+- [License](#license)
 
-## Installation(#table-of-contents)
+## Installation
 Use the following command to install: 
 ${data.installation}
 
-## Usage(#table-of-contents)
+## Usage
 ${data.usage}
 
-## Test(#table-of-contents)
+## Test
 Use the following command to test: 
 ${data.tests}
 
-## Contributions(#table-of-contents) 
+## Contributions 
 ${data.contributions}
 
 ## Questions
