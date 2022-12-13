@@ -32,6 +32,8 @@ A professional README generator that takes in user input through a node terminal
 
 ## Contributions <a name="contributions"></a> 
 
+More than welcome to any suggestions or comments. Feel free to open a comment for Pull Requests.
+
 ## License <a name="license"></a>
 
 Copyright (c) 2012-2022 Ethan Quinlan.
