@@ -138,10 +138,11 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
+    // Grabs questions asked to user.
    inquirer
    .prompt(questions)
    .then(function(userInput) {
-
+// Writes README file based off user input.
     writeToFile('./README.md', generateMarkdown(userInput));
    });
 }
