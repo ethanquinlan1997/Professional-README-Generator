@@ -14,9 +14,12 @@
 A professional README generator that takes in user input through a node terminal to generate a README for users. The terminal contains a prompt of mulitple questions that a user can answer. Once all questions are answered, a README will be created.
 
 ## Resources <a name="resources"></a>
+-GitHub account: https://github.com/ethanquinlan1997
 
 
 ## Recording <a name="recording"></a>
+
+Link for demo : (https://drive.google.com/file/d/1Bprgs1-_3pTwkgDDX64YXJNF3dmgTVnp/view)
 
 ## Installation <a name="installation"></a>
 - Clone starter code from repo to your local computer.
